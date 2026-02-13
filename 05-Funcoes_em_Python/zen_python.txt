@@ -1,0 +1,6 @@
+Zen of Python
+
+Beautiful is better than ugly.
+
+Autor: Tim Peters
+Ano: 1999
