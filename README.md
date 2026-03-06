@@ -1,7 +1,7 @@
-🚀 Formação Python Fundamentals
+# 🚀 Formação Python Fundamentals
 Este repositório é o meu diário de bordo no aprendizado da linguagem Python. Aqui reúno códigos, exercícios e projetos desenvolvidos através de diferentes fontes de estudo, documentando minha evolução do zero ao domínio da linguagem.
 
-📚 Fontes de Estudo
+# 📚 Fontes de Estudo
 O conteúdo aqui presente é fruto da combinação de:
 
 DIO.me: Foco em lógica de programação, desafios de código e trilhas de carreira.
